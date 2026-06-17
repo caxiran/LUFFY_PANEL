@@ -173,7 +173,11 @@ MIT — use freely, modify as needed.
 ---
 ---
 ---
+**about** :
 
+```markdown
+[My telegram channel](https://t.me/Luffy_sh_op)
+```
 # 🏴‍☠️ لوفی پنل
 
 یک پنل پراکسی سبک VLESS-over-WebSocket ساخته‌شده با FastAPI، قابل استقرار روی [Render](https://render.com).
